@@ -1,0 +1,22 @@
+{
+  "name": "computeapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdn3098/gcp-compute-api.git"
+  },
+  "author": "Sumit Debnath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdn3098/gcp-compute-api/issues"
+  },
+  "homepage": "https://github.com/sdn3098/gcp-compute-api#readme",
+  "dependencies": {
+    "googleapis": "^58.0.0"
+  }
+}
